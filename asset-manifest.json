@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/puissance4/static/css/main.f855e6bc.css",
+    "main.js": "/puissance4/static/js/main.cd001c12.js",
+    "static/js/787.572ed5ad.chunk.js": "/puissance4/static/js/787.572ed5ad.chunk.js",
+    "index.html": "/puissance4/index.html",
+    "main.f855e6bc.css.map": "/puissance4/static/css/main.f855e6bc.css.map",
+    "main.cd001c12.js.map": "/puissance4/static/js/main.cd001c12.js.map",
+    "787.572ed5ad.chunk.js.map": "/puissance4/static/js/787.572ed5ad.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.cd001c12.js"
+  ]
+}
