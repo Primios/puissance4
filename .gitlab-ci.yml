@@ -1,0 +1,36 @@
+image: node:latest
+
+stages:
+  - test
+
+Test_AppJS:
+  stage: test
+  script:
+    - yarn install
+    - yarn test App.test.js
+
+Test_WinCase:
+  stage: test
+  script:
+    - yarn install
+    - yarn test winCase.test.js
+
+
+Test_WinLogic:
+  stage: test
+  script:
+    - yarn install
+    - yarn test winLogic.test.js
+
+TestBonusMode:
+  stage: test
+  script:
+    - yarn install
+    - yarn test bonusMode.test.js
+
+TestReverseBonus:
+  stage: test
+  script:
+    - yarn install
+    - yarn test reverseBonus.test.js
+
